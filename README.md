@@ -27,4 +27,4 @@ Rainmeter extension for Agoric node monitoring.
  3. Install Agoric.Node.Monitor_\*.rmskin
  4. Change IP address in agoric.ini from 0.0.0.0 to your node IP
  5. Refresh again
- 6. Vous la!
+ 6. Vous à la!
