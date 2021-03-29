@@ -1,4 +1,4 @@
-[![Nodes.Guru Logo](https://api.nodes.guru/nodesguru_wide.png "Nodes.Guru Logo")](https://api.nodes.guru/nodesguru_wide.png "Nodes.Guru Logo")
+[![Nodes.Guru Logo](https://api.nodes.guru/nodesguru_wide.png "Nodes.Guru Logo")](https://nodes.guru "Nodes.Guru")
 # Agoric Monitor
 Rainmeter extension for Agoric node monitoring.
 
